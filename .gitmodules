@@ -1,0 +1,3 @@
+[submodule "lib/avr-shift-registers"]
+	path = lib/avr-shift-registers
+	url = git@github.com:Rutherther/avr-shift-registers.git
